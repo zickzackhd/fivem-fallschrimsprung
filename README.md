@@ -8,7 +8,8 @@ Fallschrimsprung skript von ZickZackHD & H4ci
 
 **Requirements**
 [none]
-**Credits to the original Autor Bot [https://github.com/H4ci](https://github.com/H4ci/h4ci_sautparachute)**
+**Credits to the original Autor  [https://github.com/H4ci](https://github.com/H4ci/h4ci_sautparachute)**
+
 
 Have Fun and a nice day ;)
 

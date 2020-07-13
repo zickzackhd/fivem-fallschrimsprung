@@ -15,5 +15,5 @@ Fallschrimsprung skript von ZickZackHD & H4ci
 
 Have Fun and a nice day ;)
 
-**ZickZackHDs's modifizierte esx_discord_bot Version**
+**ZickZackHDs's modifizierte h4ci_sautparachute Version**
 
